@@ -26,7 +26,7 @@ MonoBehaviour:
     x: 780
     y: -198
     width: 2850
-    height: 2969
+    height: 2950
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1780,7 +1780,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614628}
   m_ExposedName: Color
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 2
   m_Category: General
   m_Min:
     m_Type:
@@ -5007,7 +5007,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614737}
   m_ExposedName: TrailRate
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 3
   m_Category: Trails
   m_Min:
     m_Type:
@@ -7721,7 +7721,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614950}
   m_ExposedName: TrailLength
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 1
   m_Category: Trails
   m_Min:
     m_Type:
